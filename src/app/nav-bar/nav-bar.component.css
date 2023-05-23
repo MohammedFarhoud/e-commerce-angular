@@ -1,0 +1,12 @@
+.cart-number {
+    position: absolute;
+    height: 20px;
+    min-width: 20px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 18px;
+    top: 20px;
+    right: 115px;
+}
